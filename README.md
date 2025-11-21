@@ -277,6 +277,3 @@ To impress your professor, present:
 
 This project is developed for academic and educational purposes.
 Feel free to fork and modify for learning or research.
-
-
-```
